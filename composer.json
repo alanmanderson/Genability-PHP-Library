@@ -1,0 +1,11 @@
+{
+    "name" : "genability/php",
+    "description" : "The Genability PHP Library is an out of the box solution to use our API with PHP",
+    "homepage" : "https://github.com/Genability/Genability-PHP-Library",
+    "type" : "library",
+    "autoload" : {
+        "psr-4" : {
+            "genability\\php\\" : ""
+        }
+    }
+}

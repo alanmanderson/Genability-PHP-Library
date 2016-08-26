@@ -1,4 +1,4 @@
-<?php
+<?php namespace genability\php;
 /**
  * Genability's PHP Library
  * <http://developer.genability.com/>
